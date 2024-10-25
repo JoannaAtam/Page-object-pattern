@@ -1,5 +1,5 @@
-import Login from "../../support/pages/Login";
-import HomePage from "../../support/pages/HomePage";
+import Login from "../support/pages/Login";
+import HomePage from "../support/pages/HomePage";
 
 describe("User can visit GoIT page", () => {
   const loginPage = new Login();
